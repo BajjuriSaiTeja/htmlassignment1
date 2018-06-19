@@ -1,0 +1,15 @@
+.wrap{
+  width:600px;
+  margin:auto;
+  background:lightgrey;
+}
+
+blockquote{
+  margin-left:0px;
+  border:2px;
+  border:solid;
+  border-color:white;
+  text-align:center;
+  padding:10px 0 10px 0;
+}
+
